@@ -1,0 +1,2 @@
+# pyLP
+LPs in Python
